@@ -1,5 +1,7 @@
 # energy-sales-prediction
 
+The purpose of this project is to understand the relation between energy sales and demographic, climate and economic factors. These predictors would then be used to predict energy sales.
+
 **Data cleaning and pre-processing:**
 
 a) The columns were converted to proper format. ‘DT00’ was converted to numeric
